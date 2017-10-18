@@ -1,7 +1,6 @@
 <template>
-  <div>
-  		<h1>@Copyright</h1>
-      	<h1>Masuk Footer Ya</h1>
+  <div class="footer">
+      <h1>Ini Footer Ya</h1>
   </div>
 </template>
 
@@ -26,5 +25,11 @@ li {
 
 a {
   color: #42b983;
+}
+
+.footer{
+  background-color: #5597b4;
+  color: white;
+  margin-top: 40px;
 }
 </style>
